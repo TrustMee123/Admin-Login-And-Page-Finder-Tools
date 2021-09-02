@@ -1,3 +1,5 @@
+Cara install/installation :
+
 $ pkg install php
 $ pkg install git
 $ pkg install unzip
