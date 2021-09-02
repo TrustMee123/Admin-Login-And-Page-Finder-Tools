@@ -5,5 +5,12 @@ $ git clone https://github.com/TrustMee123/admin-finder-tools
 $ cd admin-finder-tools
 $ unzip admin-finder
 $ cd admin-finder
+$ php adfin.php
 
-Note : What you do is not my responsibility ^_^
+Gunakan Toolsnya ^_^
+
+Note : Saya Tidak Bertanggung Jawab Atas Apa Yang Kalian Lakukan
+
+Use the Tools ^_^
+
+Note: I am not responsible for what you do
