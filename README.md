@@ -3,8 +3,8 @@ Istallation :
 $ pkg install php
 $ pkg install git
 $ pkg install unzip
-$ git clone https://github.com/TrustMee123/admin-finder-tools
-$ cd admin-finder-tools
+$ git clone https://github.com/TrustMee123/Admin-Login-And-Page-Finder-Tools
+$ cd 
 $ unzip admin-finder
 $ cd admin-finder
 $ php adfin.php
