@@ -1,4 +1,4 @@
-Cara install/installation :
+Istallation :
 
 $ pkg install php
 $ pkg install git
